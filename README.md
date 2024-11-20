@@ -26,7 +26,7 @@ O **Mata Mosquito** é um jogo divertido e desafiador onde o objetivo é elimina
 ---
 
 ### Jogo em Ação
-![Jogo em Ação](caminho/para/imagem3.png)
+![Jogo em Ação]([caminho/para/imagem3.png](https://github.com/Jonemanuel/Projeto-Game-MataMosquito/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2022-31-26.png?raw=true))
 
 ---
 
