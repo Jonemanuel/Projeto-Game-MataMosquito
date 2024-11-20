@@ -15,19 +15,25 @@ O **Mata Mosquito** é um jogo divertido e desafiador onde o objetivo é elimina
 ---
 
 ## 📷 Capturas de Tela
+
 ### Tela Inicial
-![Tela Inicial](caminho/para/imagem1.png)
+<div align="center">
+    <img src="https://github.com/Jonemanuel/Projeto-Game-MataMosquito/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2022-31-43.png?raw=true" alt="Tela Inicial" width="600">
+</div>
 
 ---
 
 ### Seleção de Nível
-![Seleção de Nível](caminho/para/imagem2.png)
+<div align="center">
+    <img src="https://github.com/Jonemanuel/Projeto-Game-MataMosquito/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2022-32-00.png?raw=true" alt="Seleção de Nível" width="600">
+</div>
 
 ---
 
 ### Jogo em Ação
-![Jogo em Ação]([caminho/para/imagem3.png](https://github.com/Jonemanuel/Projeto-Game-MataMosquito/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2022-31-26.png?raw=true))
-
+<div align="center">
+    <img src="https://github.com/Jonemanuel/Projeto-Game-MataMosquito/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2022-31-26.png?raw=true" alt="Jogo em Ação" width="600">
+</div>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
